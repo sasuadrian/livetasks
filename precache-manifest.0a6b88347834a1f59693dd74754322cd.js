@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb8bde3babb30dba591e58cbbbd49323",
+    "revision": "f39697bb3f95f5e0f60927f55f8a830a",
     "url": "/livetasks/index.html"
   },
   {
-    "revision": "4f0c6bb29104f9514be2",
+    "revision": "487ab3b0e39767ae1f5a",
     "url": "/livetasks/static/css/main.be0ee844.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/livetasks/static/js/2.e31b7884.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f0c6bb29104f9514be2",
-    "url": "/livetasks/static/js/main.b0d5c859.chunk.js"
+    "revision": "487ab3b0e39767ae1f5a",
+    "url": "/livetasks/static/js/main.bdab5da2.chunk.js"
   },
   {
     "revision": "7e75391f3f8e8263957a",
