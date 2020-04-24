@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/livetasks/static/css/main.be0ee844.chunk.css",
-    "main.js": "/livetasks/static/js/main.bdab5da2.chunk.js",
-    "main.js.map": "/livetasks/static/js/main.bdab5da2.chunk.js.map",
+    "main.js": "/livetasks/static/js/main.c5e0273d.chunk.js",
+    "main.js.map": "/livetasks/static/js/main.c5e0273d.chunk.js.map",
     "runtime-main.js": "/livetasks/static/js/runtime-main.9c5d7d56.js",
     "runtime-main.js.map": "/livetasks/static/js/runtime-main.9c5d7d56.js.map",
-    "static/js/2.e31b7884.chunk.js": "/livetasks/static/js/2.e31b7884.chunk.js",
-    "static/js/2.e31b7884.chunk.js.map": "/livetasks/static/js/2.e31b7884.chunk.js.map",
+    "static/js/2.228553de.chunk.js": "/livetasks/static/js/2.228553de.chunk.js",
+    "static/js/2.228553de.chunk.js.map": "/livetasks/static/js/2.228553de.chunk.js.map",
     "index.html": "/livetasks/index.html",
-    "precache-manifest.0a6b88347834a1f59693dd74754322cd.js": "/livetasks/precache-manifest.0a6b88347834a1f59693dd74754322cd.js",
+    "precache-manifest.51c8d544f011439be0387bb671d68407.js": "/livetasks/precache-manifest.51c8d544f011439be0387bb671d68407.js",
     "service-worker.js": "/livetasks/service-worker.js",
     "static/css/main.be0ee844.chunk.css.map": "/livetasks/static/css/main.be0ee844.chunk.css.map",
-    "static/js/2.e31b7884.chunk.js.LICENSE.txt": "/livetasks/static/js/2.e31b7884.chunk.js.LICENSE.txt"
+    "static/js/2.228553de.chunk.js.LICENSE.txt": "/livetasks/static/js/2.228553de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9c5d7d56.js",
-    "static/js/2.e31b7884.chunk.js",
+    "static/js/2.228553de.chunk.js",
     "static/css/main.be0ee844.chunk.css",
-    "static/js/main.bdab5da2.chunk.js"
+    "static/js/main.c5e0273d.chunk.js"
   ]
 }

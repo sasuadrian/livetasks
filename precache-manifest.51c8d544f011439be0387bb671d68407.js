@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f39697bb3f95f5e0f60927f55f8a830a",
+    "revision": "5606eb4552c0f1d667173c8215b2d824",
     "url": "/livetasks/index.html"
   },
   {
-    "revision": "487ab3b0e39767ae1f5a",
+    "revision": "87de92063dcc4b468cb9",
     "url": "/livetasks/static/css/main.be0ee844.chunk.css"
   },
   {
-    "revision": "3221bc781d42c474763e",
-    "url": "/livetasks/static/js/2.e31b7884.chunk.js"
+    "revision": "8f085cb16198b2190b28",
+    "url": "/livetasks/static/js/2.228553de.chunk.js"
   },
   {
     "revision": "0f59aded427042d87c15d0910a90fb3b",
-    "url": "/livetasks/static/js/2.e31b7884.chunk.js.LICENSE.txt"
+    "url": "/livetasks/static/js/2.228553de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "487ab3b0e39767ae1f5a",
-    "url": "/livetasks/static/js/main.bdab5da2.chunk.js"
+    "revision": "87de92063dcc4b468cb9",
+    "url": "/livetasks/static/js/main.c5e0273d.chunk.js"
   },
   {
     "revision": "7e75391f3f8e8263957a",
